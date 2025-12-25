@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "終りなき疾走 (ON THE ROAD 2011 \"The Last Weekend\")",
+  "base_artist": "浜田省吾",
+  "createdAt": "2025-12-25T02:55:24.499269Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "終りなき疾走",
+      "artist": "Shogo Hamada",
+      "has_synced": true,
+      "path": "select/01_終りなき疾走_Shogo_Hamada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "終りなき疾走",
+      "artist": "浜田省吾",
+      "has_synced": false,
+      "path": "select/02_終りなき疾走_浜田省吾.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終りなき疾走",
+      "artist": "浜田 省吾",
+      "has_synced": false,
+      "path": "select/pl_01_終りなき疾走_浜田_省吾.txt"
+    }
+  ]
+}
